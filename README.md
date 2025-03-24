@@ -1,5 +1,5 @@
 ## Hi there 👋
 ![Header](banner.png)<!--
-**mihaisacalianu/mihaisacalianu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer using: .rb, .erb, .js, .html, .css
 - 📫 How to reach me: ...
 - [![LinkedIn](icons8-linkedin.svg)](in/mihai-dorin-sacalianu-b1420a118)
